@@ -1,0 +1,8 @@
+name: ChatHeadFont
+version: '${project.version}'
+main: net.revqz.chathead.Main
+api-version: '1.20'
+authors: [revqz]
+description: Player Chat Icons
+website: https://github.com/Javarev1/head-fonts
+softdepend: [PlaceholderAPI]
