@@ -1,6 +1,6 @@
 # head-fonts
 
-Displays player skin heads in chat, join/leave, and death messages using a custom font resource pack.
+Displays player skin heads in chat, join/leave, and death messages using a custom font resource pack..
 
 ## Setup
 
